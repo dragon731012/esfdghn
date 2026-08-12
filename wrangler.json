@@ -1,0 +1,8 @@
+{
+  "name": "esfdghn",
+  "main": "worker.js",
+  "compatibility_date": "2026-08-12",
+  "vars": {
+    "SERVER": "play2.eternalzero.cloud:26149"
+  }
+}
